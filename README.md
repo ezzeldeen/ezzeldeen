@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=ezzeldeen)
+![](https://komarev.com/ghpvc/?username=ezzeldeen&color=brightgreen&style=flat)
 <!--
 **ezzeldeen/ezzeldeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
